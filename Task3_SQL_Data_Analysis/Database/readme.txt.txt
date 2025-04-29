@@ -1,0 +1,1 @@
+I've given screenshots to the sample database containing tables: dim_customer, dim_product, dim_market and fact_sales_monthly. I couldn't upload the actual db file due to size near to 1GB.
